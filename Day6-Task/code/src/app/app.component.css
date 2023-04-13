@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.page_header{
+    background-color: #5c5c8a;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    display: flex;
+}
+.fields{
+    display:flex;
+}
+.fields a{
+    font-size: 13px;
+    text-decoration: none;
+    color: white;
+    margin: 0 10px;
+}
+.title1{
+    color: white;
+    font-size: x-large;
+    flex: 1;
+    margin-left: 10px;
+}
