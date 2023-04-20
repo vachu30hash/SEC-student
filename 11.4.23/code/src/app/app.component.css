@@ -17,12 +17,12 @@
 .fields a{
     font-size: 13px;
     text-decoration: none;
-    color: white;
+    color: royalblue;
     margin: 0 10px;
 }
-.title1{
+.title1 {
+    font-size: 27px;
     color: white;
-    font-size: x-large;
     flex: 1;
     margin-left: 10px;
 }
